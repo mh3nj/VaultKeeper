@@ -1,0 +1,21 @@
+# Core
+cryptography==41.0.7
+pyotp==2.9.0
+qrcode==7.4.2
+pillow==10.1.0
+
+# UI
+pystray==0.19.0
+plyer==2.1.0
+
+# Utils
+pyperclip==1.8.2
+colorama==0.4.6
+
+# Analytics & Charts
+matplotlib==3.8.2
+
+# Data
+requests==2.31.0  # Optional, for breach DB updates
+
+keyboard==0.13.5
