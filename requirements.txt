@@ -1,21 +1,19 @@
-# Core
-cryptography==41.0.7
-pyotp==2.9.0
-qrcode==7.4.2
-pillow==10.1.0
+# VaultKeeper v3.0 — Python 3.11+
+# Install:  pip install -r requirements.txt
 
-# UI
-pystray==0.19.0
-plyer==2.1.0
+# ── Auto-type ─────────────────────────────────────────────────────────────────
+keyboard>=0.13.5            # system-wide keyboard simulation (Linux: needs root or uinput)
 
-# Utils
-pyperclip==1.8.2
-colorama==0.4.6
+# ── QR codes (emergency access) ───────────────────────────────────────────────
+qrcode[pil]>=7.4.2          # QR generation for emergency packages
+pillow>=10.3.0              # image support for QR / icons
 
-# Analytics & Charts
-matplotlib==3.8.2
+# ── System tray ───────────────────────────────────────────────────────────────
+pystray>=0.19.0             # system tray icon
 
-# Data
-requests==2.31.0  # Optional, for breach DB updates
+# ── OPTIONAL — remove if not needed ───────────────────────────────────────────
+# matplotlib>=3.8.2         # for analytics charts in GUI (large dependency)
+# colorama>=0.4.6           # colored terminal output on Windows
 
-keyboard==0.13.5
+# ── NOT included (intentional) ────────────────────────────────────────────────
+# requests                  # VaultKeeper is offline-first — no HTTP client
