@@ -103,38 +103,40 @@ the full pwned passwords list is ~900 mb. you can download it once with `scripts
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100%"><img src="/screenshots/0.png" width="100%"><br/><sub>Master password</sub></td>
+      <td align="center" colspan="2"><img src="/screenshots/0.png" width="100%"><br/><sub>Master password</sub></td>
+      <td align="center" ></td>
     </tr>
     <tr>
-      <td align="center" width="50%"><img src="/screenshots/1.png" width="100%"><br/><sub>Main winsdow dark theme</sub></td>
-      <td align="center" width="50%"><img src="/screenshots/2.png" width="100%"><br/><sub>Main winsdow light theme</sub></td>
+      <td align="center"><img src="/screenshots/1.png" width="100%"><br/><sub>Main winsdow dark theme</sub></td>
+      <td align="center"><img src="/screenshots/2.png" width="100%"><br/><sub>Main winsdow light theme</sub></td>
     </tr>
     <tr>
-      <td align="center" width="50%"><img src="/screenshots/3.png" width="100%"><br/><sub>Observing a password</sub></td>
-      <td align="center" width="50%"><img src="/screenshots/4.png" width="100%"><br/><sub>Security Report window</sub></td>
+      <td align="center"><img src="/screenshots/3.png" width="100%"><br/><sub>Observing a password</sub></td>
+      <td align="center"><img src="/screenshots/4.png" width="100%"><br/><sub>Security Report window</sub></td>
     </tr>
     <tr>
-      <td align="center" width="50%"><img src="/screenshots/5.png" width="100%"><br/><sub>Password generator</sub></td>
-      <td align="center" width="50%"><img src="/screenshots/6.png" width="100%"><br/><sub>Export window</sub></td>
+      <td align="center"><img src="/screenshots/5.png" width="100%"><br/><sub>Password generator</sub></td>
+      <td align="center"><img src="/screenshots/6.png" width="100%"><br/><sub>Export window</sub></td>
     </tr>
     <tr>
-      <td align="center" width="50%"><img src="/screenshots/7.png" width="100%"><br/><sub>Import window</sub></td>
-      <td align="center" width="50%"><img src="/screenshots/8.png" width="100%"><br/><sub>Backup window</sub></td>
+      <td align="center"><img src="/screenshots/7.png" width="100%"><br/><sub>Import window</sub></td>
+      <td align="center"><img src="/screenshots/8.png" width="100%"><br/><sub>Backup window</sub></td>
     </tr>
     <tr>
-      <td align="center" width="50%"><img src="/screenshots/9.png" width="100%"><br/><sub>Auto type window</sub></td>
-      <td align="center" width="50%"><img src="/screenshots/10.png" width="100%"><br/><sub>Emergency access window</sub></td>
+      <td align="center"><img src="/screenshots/9.png" width="100%"><br/><sub>Auto type window</sub></td>
+      <td align="center"><img src="/screenshots/10.png" width="100%"><br/><sub>Emergency access window</sub></td>
     </tr>
     <tr>
-      <td align="center" width="50%"><img src="/screenshots/11.png" width="100%"><br/><sub>Unlock package window</sub></td>
-      <td align="center" width="50%"><img src="/screenshots/12.png" width="100%"><br/><sub>Active package window</sub></td>
+      <td align="center"><img src="/screenshots/11.png" width="100%"><br/><sub>Unlock package window</sub></td>
+      <td align="center"><img src="/screenshots/12.png" width="100%"><br/><sub>Active package window</sub></td>
     </tr>
     <tr>
-      <td align="center" width="50%"><img src="/screenshots/13.png" width="100%"><br/><sub>Command Line(CLI) window</sub></td>
-      <td align="center" width="50%"><img src="/screenshots/14.png" width="100%"><br/><sub>Settings window</sub></td>
+      <td align="center"><img src="/screenshots/13.png" width="50%"><br/><sub>Command Line(CLI) window</sub></td>
+      <td align="center"><img src="/screenshots/14.png" width="50%"><br/><sub>Settings window</sub></td>
     </tr>
     <tr>
-      <td align="center" width="50%"><img src="/screenshots/15.png" width="100%"><br/><sub>Adding new entry window</sub></td>
+      <td align="center" colspan="2"><img src="/screenshots/15.png" width="100%"><br/><sub>Adding new entry window</sub></td>
+      <td align="center"></td>
     </tr>
   </table>
 </div>
